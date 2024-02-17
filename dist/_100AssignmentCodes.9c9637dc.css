@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FDF5DF;
+    height: 80px;
+    align-items: center;
+}
+
+#logo-img{
+    height: 60px;
+
+}
+
+input{
+    height: 40px;
+    width: 300px;
+}
+
+#userIcon-img{
+    height: 60px;
+}
+
+/*# sourceMappingURL=/_100AssignmentCodes.9c9637dc.css.map */

@@ -22,3 +22,4 @@ React.createElement(
 
 const result=ReactDOM.createRoot(document.querySelector("body"));
 result.render(parent);
+

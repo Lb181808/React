@@ -1,0 +1,54 @@
+#logo{
+    height: 60px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+ul{
+    display: flex;
+}
+li{
+    margin-right: 20px;
+    font-size: 24px;
+    padding: 10px;
+    list-style: none;
+}
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ad6a6c;
+    cursor: pointer;
+}
+li:hover{
+    scale: 1.1;
+    color: floralwhite;
+    font-weight: 600;
+}
+.bodyContainer{
+    margin-top: 40px;
+}
+#myLabel{
+    font-size: 28px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+#search{
+    height: 25px;
+    font-size: 24px;
+    font-family: 600;
+}
+.searchContainer{
+    display: flex;
+    justify-content: center;
+}
+.res-card{
+    height: 300px;
+    width: 700px;
+    margin-left: 20px;
+}
+.restImg{
+    height: 50px;
+}
+#res-container{
+    display: flex;
+    
+}

@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "scripts": {
+    "start": "parcel _5foodDeliveryApp.html",
+    "build": "parcel build _5foodDeliveryApp.html",
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/lb181808/React-Codes.git)"
+  },
+  "keywords": [],
+  "author": "Lalit Mohan Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "process": "^0.11.10"
+  }
+}
